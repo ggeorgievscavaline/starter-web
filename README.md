@@ -8,7 +8,11 @@ Some intro text.
 
 ## Purpose
 
+Some purpose text.
+
 ## Deployment
+
+This is a deployment text.
 
 ## How to contribute
 
