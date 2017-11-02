@@ -2,6 +2,7 @@
 
 This repository is for showing how Git and GitHub work together.
 Adding one line for example.
+And one more line for more changes.
 
 ## Introduction
 
