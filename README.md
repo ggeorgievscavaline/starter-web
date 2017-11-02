@@ -20,7 +20,11 @@ This is a deployment text.
 
 Sample website with plenty of files for demos
 Please fork this repository and then issue pull request for review.
+<<<<<<< Updated upstream
 More stuff to do
+=======
+Please leave feedback.
+>>>>>>> Stashed changes
 
 ### Copyright 
 
