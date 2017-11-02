@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Georgi Georgiev georgi.georgiev@scavaline.com no-twitter
 
 # THANKS
 
