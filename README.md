@@ -17,6 +17,7 @@ This is a deployment text.
 ## How to contribute
 
 Sample website with plenty of files for demos
+Please fork this repository and then issue pull request for review.
 
 ### Copyright 
 
